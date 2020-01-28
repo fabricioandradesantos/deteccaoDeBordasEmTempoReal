@@ -18,7 +18,7 @@ Obs2: Orientação da imagem não foi trabalhada.
 ## Implementação baseada no [OpenCV - Open Source Computer Vision](https://docs.opencv.org/3.4/d5/db5/tutorial_laplace_operator.html)
 
 ## Imagens meramente ilustrativas do efeito 
-<a href="url"><img src="https://github.com/fabriicioa/cannyDeteccaoDeBordas/blob/master/Arquivos/img1.jpg" align="center" height="400" width="400" ></a>
+<a href="url"><img src="https://github.com/fabriicioa/deteccaoDeBordasEmTempoReal/blob/master/Arquivos/img1.jpg" align="left" height="400" width="400" ></a>
 
 ## Contribua
 
