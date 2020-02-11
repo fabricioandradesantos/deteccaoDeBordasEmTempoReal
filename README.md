@@ -1,10 +1,6 @@
 # Detector de bordas em tempo real
 ## Real-Time Edge Detection
 
-Detecção de borda é uma técnica de processamento de imagem e visão computacional para determinar pontos de uma imagem digital em que a intensidade luminosa muda repentinamente. Mudanças repentinas em imagens geralmente refletem eventos importantes no cenário, como a descontinuação da profundidade (transição entre o objeto e o fundo), descontinuação da orientação da superfície, mudança das propriedades do material ou variações na iluminação da cena.
-
-[Wikipédia](https://pt.wikipedia.org/wiki/Detec%C3%A7%C3%A3o_de_borda)
-
 Obs: A detecção de bordas desse app ocorre durante a visualização da câmera (Em tempo Real)
 
 Obs2: Orientação da imagem não foi trabalhada. 
